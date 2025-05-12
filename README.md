@@ -10,7 +10,7 @@ Authors: [Spencer Young*](https://github.com/spencermyoung513), [Porter Jenkins*
 
 We introduce DDPN, a novel neural count regression model that outputs the parameters of the Double Poisson distribution, enabling *arbitrarily high or low predictive aleatoric uncertainty* for count data. DDPN also exhibits *learnable loss attenuation*, a robust regression property that is also present in heteroscedastic Gaussian models. When ensembled, DDPN can also estimate epistemic uncertainty.
 
-![An overview of the Deep Double Poisson Network](deep_uncertainty/figures/artifacts/ddpn-fig.pdf).
+![An overview of the Deep Double Poisson Network](deep_uncertainty/figures/artifacts/ddpn-fig.png).
 
 ## Important Links
 
